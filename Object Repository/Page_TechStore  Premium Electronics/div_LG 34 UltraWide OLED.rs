@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LG 34 UltraWide OLED</name>
+   <tag></tag>
+   <elementGuidId>c5b9bcd0-7cf3-4668-a1b6-2658869189fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-grid']/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>86cc6c95-ece7-4623-9e44-1b18c91c2574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-name</value>
+      <webElementGuid>59746288-d46f-406c-bbf3-b0e9e8445510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LG 34&quot; UltraWide OLED</value>
+      <webElementGuid>2732240e-e00b-4d3a-a55a-e23ff7061fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-grid&quot;)/div[@class=&quot;product-card fade-in&quot;]/div[@class=&quot;product-info&quot;]/div[@class=&quot;product-name&quot;]</value>
+      <webElementGuid>f19fbb9d-4f2b-4899-82d8-24ce1a2a5a79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-grid']/div/div[2]/div</value>
+      <webElementGuid>f17668cd-e4ac-42a8-a0ce-b53e48eef352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🖥️'])[1]/following::div[2]</value>
+      <webElementGuid>afe7b0ec-a1eb-49e5-803b-b439db6a0961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🤍'])[1]/following::div[2]</value>
+      <webElementGuid>908e15bf-4b80-4470-87cd-a815f56ce9d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warna:'])[1]/preceding::div[2]</value>
+      <webElementGuid>147f7cf6-461c-4872-926e-77b131321738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LG 34&quot; UltraWide OLED']/parent::*</value>
+      <webElementGuid>bcbdf526-e503-460f-9b93-a1041018b7d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div</value>
+      <webElementGuid>b91e0966-85bd-47b5-a979-a637542e93e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LG 34&quot; UltraWide OLED' or . = 'LG 34&quot; UltraWide OLED')]</value>
+      <webElementGuid>591497a4-3438-4f8f-9935-0b006c6c053a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

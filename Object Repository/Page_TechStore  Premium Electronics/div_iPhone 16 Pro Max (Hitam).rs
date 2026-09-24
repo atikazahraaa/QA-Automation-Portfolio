@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_iPhone 16 Pro Max (Hitam)</name>
+   <tag></tag>
+   <elementGuidId>9de0afef-3da7-4e4f-9b31-f896ed2a4981</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cart-item-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-body']/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>36deeb5a-fcdd-45b7-9d95-742d5bb174ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart-item-name</value>
+      <webElementGuid>c966a166-6dd4-4d4e-ac8c-f24b4747c742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>iPhone 16 Pro Max (Hitam)</value>
+      <webElementGuid>714709bb-09db-40ab-82a8-8033862a19fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-body&quot;)/div[@class=&quot;cart-item&quot;]/div[@class=&quot;cart-item-info&quot;]/div[@class=&quot;cart-item-name&quot;]</value>
+      <webElementGuid>438a8b0f-7c2d-4be2-a593-ef0703edb412</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-body']/div/div[2]/div</value>
+      <webElementGuid>82c32544-5d7d-4a86-b935-7c4b4cd98edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🍎'])[3]/following::div[2]</value>
+      <webElementGuid>faf5dbe7-2f56-4213-8902-05bb8ea395fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✕'])[6]/following::div[5]</value>
+      <webElementGuid>e81d75d1-708a-4825-810f-3ba4d8c115de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 22.499.000'])[3]/preceding::div[1]</value>
+      <webElementGuid>3047a036-a19b-4386-80ed-36e0ccc57b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='−'])[1]/preceding::div[2]</value>
+      <webElementGuid>154e91a1-3e88-4799-b56f-298ef5b67014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='iPhone 16 Pro Max (Hitam)']/parent::*</value>
+      <webElementGuid>3a06268a-da0f-4e65-87b8-c651b46aee0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>b4c868ad-710f-41e0-bfb2-4818aa1a6a92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'iPhone 16 Pro Max (Hitam)' or . = 'iPhone 16 Pro Max (Hitam)')]</value>
+      <webElementGuid>75894bcb-36fd-4184-8cfd-48e1fba3b571</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

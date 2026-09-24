@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MacBook Pro 14 M4 (Hitam)</name>
+   <tag></tag>
+   <elementGuidId>7ae4d6a6-6af7-4cc0-b26f-faacf6fdd063</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-body']/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>addcf9fe-2097-4235-a9ee-b6ac323853c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart-item-name</value>
+      <webElementGuid>cfd0e2d9-b40f-4322-91c8-1a412fa57b49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MacBook Pro 14&quot; M4 (Hitam)</value>
+      <webElementGuid>294e3e10-103f-4cfe-a94e-56d615b823fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-body&quot;)/div[@class=&quot;cart-item&quot;]/div[@class=&quot;cart-item-info&quot;]/div[@class=&quot;cart-item-name&quot;]</value>
+      <webElementGuid>91a094ff-9289-47d3-9c3a-a5b343669505</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-body']/div[2]/div[2]/div</value>
+      <webElementGuid>847d7bb4-f289-4b2f-91b8-8abdaaee26c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='💻'])[2]/following::div[2]</value>
+      <webElementGuid>d8395d7a-09fc-4bc4-a7ee-ecc72beaf5a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🗑'])[1]/following::div[4]</value>
+      <webElementGuid>9822f408-336b-4912-8121-f8fb3da004db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 29.999.000'])[1]/preceding::div[1]</value>
+      <webElementGuid>255b6486-f5ac-4c74-9fd7-7e1c74acf3de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='−'])[2]/preceding::div[2]</value>
+      <webElementGuid>431aaf69-51a0-4539-8165-d113056350e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MacBook Pro 14&quot; M4 (Hitam)']/parent::*</value>
+      <webElementGuid>9e58b3d7-4b2a-49f5-be6f-820ecb33841c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>65990aa3-f87a-4557-a71b-e1f87ba7a95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MacBook Pro 14&quot; M4 (Hitam)' or . = 'MacBook Pro 14&quot; M4 (Hitam)')]</value>
+      <webElementGuid>0440a728-0251-4b18-b052-b147f042c143</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

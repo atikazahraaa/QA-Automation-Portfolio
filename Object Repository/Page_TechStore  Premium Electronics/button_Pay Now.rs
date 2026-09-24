@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pay Now</name>
+   <tag></tag>
+   <elementGuidId>85f6a5e3-40aa-4f5a-83dd-fd0ed29f3ac5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.order-submit-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='submitOrder()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>37442597-16b4-43b8-b731-02659c29a86f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>order-submit-btn</value>
+      <webElementGuid>7099f961-87e2-45da-a38a-244b2c40b86d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>submitOrder()</value>
+      <webElementGuid>01a24e1b-8866-4195-bffa-91ff3e7017fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pay Now</value>
+      <webElementGuid>531ac469-e996-40cb-b0ea-38c4ef30cf98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-order&quot;)/div[@class=&quot;modal order-modal&quot;]/div[@class=&quot;order-modal-actions&quot;]/button[@class=&quot;order-submit-btn&quot;]</value>
+      <webElementGuid>76acf186-65cd-484e-87fc-2c7d6dee206e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='submitOrder()']</value>
+      <webElementGuid>55379e05-113e-4064-94a4-2d25a949cbb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-order']/div/div[11]/button[2]</value>
+      <webElementGuid>5a5c5450-240a-463b-8c1d-6d6e43349223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>6f1bbd50-5616-4467-90b8-7ca191a31d08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 70.497.000'])[2]/following::button[2]</value>
+      <webElementGuid>dcb73ed4-ef1a-40ff-905a-c2ed528afaf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pay Now']/parent::*</value>
+      <webElementGuid>7f9ee566-645a-4c5c-b60f-cdabd5869717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/button[2]</value>
+      <webElementGuid>5b14ca85-f7bd-412a-ba1d-9b784673af8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pay Now' or . = 'Pay Now')]</value>
+      <webElementGuid>68d2879f-9ea0-4781-9421-381c5604d7a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

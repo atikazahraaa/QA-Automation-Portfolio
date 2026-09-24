@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LG 34 UltraWide OLED (Hitam)</name>
+   <tag></tag>
+   <elementGuidId>9e7ed246-c956-4145-b07a-31944420ab11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-body']/div[3]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b3b673d1-534c-4161-b2c3-6c6641d56300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart-item-name</value>
+      <webElementGuid>16dbb376-7b06-4d61-b81a-eb50d13d081e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LG 34&quot; UltraWide OLED (Hitam)</value>
+      <webElementGuid>96fe7233-3d5b-4e91-a5f9-4de88b0e488b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-body&quot;)/div[@class=&quot;cart-item&quot;]/div[@class=&quot;cart-item-info&quot;]/div[@class=&quot;cart-item-name&quot;]</value>
+      <webElementGuid>75260d7e-6bc4-451c-ab53-732f9b4141ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-body']/div[3]/div[2]/div</value>
+      <webElementGuid>fcadfbb8-cec0-4332-9268-d19dc68f0ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🖥️'])[2]/following::div[2]</value>
+      <webElementGuid>d96d2150-7842-4a38-8253-b8c8c6ffbbe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🗑'])[2]/following::div[4]</value>
+      <webElementGuid>0136b547-11b3-4430-8e18-5e05798a8b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 17.999.000'])[1]/preceding::div[1]</value>
+      <webElementGuid>68233dc8-298c-4725-b744-a3f49d88628a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='−'])[3]/preceding::div[2]</value>
+      <webElementGuid>7b4f8569-082d-44ca-b727-ef41639eb252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LG 34&quot; UltraWide OLED (Hitam)']/parent::*</value>
+      <webElementGuid>083f7399-bf89-41fe-bda8-74f3559dbb54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[2]/div</value>
+      <webElementGuid>30a04ae3-c266-4911-879f-0c2e82db0549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LG 34&quot; UltraWide OLED (Hitam)' or . = 'LG 34&quot; UltraWide OLED (Hitam)')]</value>
+      <webElementGuid>fce1b2fd-6f97-493d-accb-4dbd080fc9a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

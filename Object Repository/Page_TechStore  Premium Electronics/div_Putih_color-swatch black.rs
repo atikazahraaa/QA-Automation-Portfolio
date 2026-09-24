@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Putih_color-swatch black</name>
+   <tag></tag>
+   <elementGuidId>5e80c628-5dfa-45f4-9f22-296e0488f300</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.color-swatch.black</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='detail-color-options']/label[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f876c660-9cb5-4088-a05a-30b868f36246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>color-swatch black</value>
+      <webElementGuid>8b0ab0db-5e42-4580-b5a9-606a2451e5cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;detail-color-options&quot;)/label[@class=&quot;color-option&quot;]/div[@class=&quot;color-swatch black&quot;]</value>
+      <webElementGuid>4981efff-2f52-46de-b590-f7f2cf9a16e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='detail-color-options']/label[3]/div</value>
+      <webElementGuid>3aadda00-8032-476e-bd10-fb247ff41b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/label[3]/div</value>
+      <webElementGuid>3f9f1d49-f86b-4fdb-8150-2ec95cbc1d3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

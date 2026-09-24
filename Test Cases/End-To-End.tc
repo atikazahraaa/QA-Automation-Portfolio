@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>End-To-End</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3aebaa9-bebc-441a-bdc7-e862c3f527fc</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e5cf1d8b-154a-45ee-bcd6-1dc7a0dbad99</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Login tech sandi</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e5cf1d8b-154a-45ee-bcd6-1dc7a0dbad99</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>98bda5c9-e0f8-44d3-b7cc-b5eeed946591</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e5cf1d8b-154a-45ee-bcd6-1dc7a0dbad99</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>4e2e0998-22bf-48df-be8c-b2fcb734fecf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>033ad0f5-a10b-4052-98ed-0bc82e05b1ad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>98bda5c9-e0f8-44d3-b7cc-b5eeed946591</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4e2e0998-22bf-48df-be8c-b2fcb734fecf</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234567890098765'</defaultValue>
+      <description></description>
+      <id>033ad0f5-a10b-4052-98ed-0bc82e05b1ad</id>
+      <masked>false</masked>
+      <name>ordercard</name>
+   </variable>
+</TestCaseEntity>

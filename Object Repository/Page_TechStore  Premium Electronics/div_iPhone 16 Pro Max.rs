@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_iPhone 16 Pro Max</name>
+   <tag></tag>
+   <elementGuidId>9cedb1a3-bee0-4c8c-957c-3aedbd96435a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-grid']/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1fba414-72b4-4596-9f8d-efff11fa330c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-name</value>
+      <webElementGuid>9176cff3-be88-4460-bac3-01d30badaba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>iPhone 16 Pro Max</value>
+      <webElementGuid>ea7b8db3-d562-4f7a-b2b9-6fffded2ef1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-grid&quot;)/div[@class=&quot;product-card fade-in&quot;]/div[@class=&quot;product-info&quot;]/div[@class=&quot;product-name&quot;]</value>
+      <webElementGuid>fe02f1d8-d1e9-4864-ac22-5d10747caf37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-grid']/div[2]/div[2]/div</value>
+      <webElementGuid>fd7390d4-0241-4275-817a-438ea5c85848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🍎'])[1]/following::div[2]</value>
+      <webElementGuid>98abfdfd-f951-49a9-8ab1-b49fa949c4b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🤍'])[2]/following::div[2]</value>
+      <webElementGuid>b8bfb1a8-9714-4cac-b1dc-a4293686e25d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A18 Pro chip, 48MP Fusion camera, Action button, USB-C denga...'])[1]/preceding::div[1]</value>
+      <webElementGuid>c67967ef-f484-43de-b456-e43160f291e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warna:'])[2]/preceding::div[2]</value>
+      <webElementGuid>41a1df06-cb42-4125-b5d8-d52873bbf5ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='iPhone 16 Pro Max']/parent::*</value>
+      <webElementGuid>fefb44fb-3639-4511-be12-ad1dcf6ebbb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/div</value>
+      <webElementGuid>c2f23be9-b34f-4637-8c06-8c4e4f65bc08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'iPhone 16 Pro Max' or . = 'iPhone 16 Pro Max')]</value>
+      <webElementGuid>9372f68d-500f-4ed7-9abc-84737b452984</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

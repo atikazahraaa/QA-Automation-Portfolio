@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MacBook Pro 14 M4</name>
+   <tag></tag>
+   <elementGuidId>ddb91185-490c-4fef-b431-d247a942c3e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-grid']/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0058c8e4-edb6-4be8-8b51-1e9433d81a8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-name</value>
+      <webElementGuid>7c19b218-972c-40b5-924b-3edbe4d2ce04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MacBook Pro 14&quot; M4</value>
+      <webElementGuid>c2fce47c-3b61-450a-8f7f-02a0acf50717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-grid&quot;)/div[@class=&quot;product-card fade-in&quot;]/div[@class=&quot;product-info&quot;]/div[@class=&quot;product-name&quot;]</value>
+      <webElementGuid>a93a04e5-87de-4c8a-95a2-bb1875e0242a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-grid']/div/div[2]/div</value>
+      <webElementGuid>bcfd683d-f423-4a96-84e5-eafb7b900d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='💻'])[1]/following::div[2]</value>
+      <webElementGuid>371b01d8-dc8e-4008-96bb-c4c2d2196887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='🤍'])[1]/following::div[2]</value>
+      <webElementGuid>dd56643f-908a-4673-8cec-3cc9a149d929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple M4 chip, memori 16GB, SSD 512GB, layar Liquid Retina X...'])[1]/preceding::div[1]</value>
+      <webElementGuid>774da005-27a4-438b-86f1-3df185e65113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warna:'])[1]/preceding::div[2]</value>
+      <webElementGuid>864aed8b-068c-496f-9e21-8c67f2f86e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MacBook Pro 14&quot; M4']/parent::*</value>
+      <webElementGuid>2ffa6d90-73b6-4276-895e-f113e527e422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div</value>
+      <webElementGuid>86263a9a-41a7-4eb6-9dd1-e372771da93b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MacBook Pro 14&quot; M4' or . = 'MacBook Pro 14&quot; M4')]</value>
+      <webElementGuid>110f0fa0-d58f-4615-974a-f85055e6c1e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

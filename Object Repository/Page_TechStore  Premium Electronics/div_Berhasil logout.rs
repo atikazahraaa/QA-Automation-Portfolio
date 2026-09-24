@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Berhasil logout</name>
+   <tag></tag>
+   <elementGuidId>8105615e-978a-485c-924a-09c243e0ff53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#toast</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6fa2c0fb-4d18-4c14-a68d-5404874ac2e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast info</value>
+      <webElementGuid>f91d9fdb-0817-4302-beca-fd38eb5d4e0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>toast</value>
+      <webElementGuid>8e3441b9-32fb-4b97-bf0b-43ac31de3cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>👋 Berhasil logout.</value>
+      <webElementGuid>e81660b8-3fc9-4ea8-8a7e-2c40d7c008ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast&quot;)</value>
+      <webElementGuid>68d60382-8911-43c0-8b3d-f8df5689f6fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='toast']</value>
+      <webElementGuid>7bdbe64a-f7ad-4988-819d-671a6f7ccce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Place Order →'])[1]/following::div[2]</value>
+      <webElementGuid>1bae7660-fb83-47b4-a8ee-648f0a3d0edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 70.497.000'])[1]/following::div[2]</value>
+      <webElementGuid>2149a881-3f8b-4fc2-a95f-d7d9fa523ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✕'])[7]/preceding::div[1]</value>
+      <webElementGuid>7f22fc3b-9d0b-42dd-bc7c-fdaf2ad4c58c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]</value>
+      <webElementGuid>9f288482-a9c5-4009-819e-a05233862349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'toast' and (text() = '👋 Berhasil logout.' or . = '👋 Berhasil logout.')]</value>
+      <webElementGuid>bd16af1f-a6e7-44f6-bfbf-b0ea9ae6a84d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
